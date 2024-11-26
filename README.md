@@ -38,8 +38,8 @@ pip install -r requirements.txt
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/lda-project.git
-   cd lda-project
+   git clone https://github.com/nizoyaa/LDA_StudentsGraduateandDropout.git
+   cd LDA_StudentsGraduateandDropou
    ```
 
 2. Place your dataset in the `data/` folder.
